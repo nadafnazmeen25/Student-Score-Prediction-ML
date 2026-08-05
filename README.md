@@ -63,6 +63,11 @@ This repository contains all my work for the **Codomax AI & ML Internship 2026**
     - Analyzed how new feature impacted model performance
 - **Files**: `day12_project_improvement.ipynb`
 
+### Day 13: GitHub Tasks
+- Uploaded notebook, dataset, screenshots and README to GitHub
+- Organized project with proper folder structure
+- Repo Link: https://github.com/nadafnazmeen25/Student-Score-Prediction-ML
+
 ## 🛠️ Tech Stack
 `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn` `Jupyter Notebook` `Linear Regression`
 
