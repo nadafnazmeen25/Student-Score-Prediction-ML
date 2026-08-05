@@ -7,7 +7,7 @@ This repository contains all my work for the **Codomax AI & ML Internship 2026**
 - `notebooks/` - Jupyter notebooks for each day
 - `screenshots/` - Output screenshots and code outputs
 
-## 📅 12 Days Progress
+## 📅 13 Days Progress
 
 ### Day 1: Environment Setup
 - Installed Anaconda & Jupyter Notebook
